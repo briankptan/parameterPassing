@@ -1,2 +1,5 @@
 # parameterPassing
-C Parameter passing tutoria
+
+C Parameter passing tutorial
+
+Complete program from the video.
